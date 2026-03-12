@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SHABAN SPACEX",
+  "description": "A secure personal vault and daily life manager designed for private use.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
